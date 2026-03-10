@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/c/dev/projects/work/citask/.claude/skills/spec\" && cp \"/c/Users/Gaikin/Downloads/development-skills-main/spec/SKILL.md\" \"/c/dev/projects/work/citask/.claude/skills/spec/\")",
+      "Bash(mkdir -p \"/c/dev/projects/work/citask/.claude/skills/plan\" && cp \"/c/Users/Gaikin/Downloads/development-skills-main/plan/SKILL.md\" \"/c/dev/projects/work/citask/.claude/skills/plan/\")",
+      "Bash(git add:*)"
+    ]
+  }
+}
